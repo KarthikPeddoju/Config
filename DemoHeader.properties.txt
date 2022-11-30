@@ -1,1 +1,1 @@
-hello:hi
+hello:From Config server
